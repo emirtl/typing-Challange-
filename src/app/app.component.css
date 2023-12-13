@@ -1,0 +1,9 @@
+.correct{
+  color: #599b1b;
+}
+.incorrect{
+  color: #ab1032;
+}
+.pending{
+  color: grey;
+}
